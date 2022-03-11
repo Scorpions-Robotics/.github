@@ -1,7 +1,7 @@
-# Testing .github
+# Welcome to Scorpions Robotics!
 
-## Still testing
+## We are a robotics team building cool stuff, such as motor control and vision processing systems for autonomous & teleoperated robots!
 
-### Almost done
+### Take a look at our repos,
 
-Ok it's done
+...and don't forget to follow us on @scorpions7672 !!! :)
